@@ -1,0 +1,33 @@
+{
+  "breakfast": [
+    { "name": "Paper Roast Dosa", "image": "https://www.app.tutorjoes.in/img/food/124.jpg","price":"₹ 65","about":"Crispy, thin dosa with a golden-brown finish." },
+    { "name": "Vegitable Noodles", "image": "https://www.app.tutorjoes.in/img/food/120.jpg","price":"₹ 130","about":"Stir-fried noodles loaded with fresh, crunchy vegetables." },
+    { "name": "Veg Sheek kebab", "image": "https://www.app.tutorjoes.in/img/food/130.jpg","price":"₹ 150","about":"Spiced minced veggies grilled on skewers to perfection." },
+    { "name": "Masal Semiya", "image": "https://www.app.tutorjoes.in/img/food/127.jpg","price":"₹ 99","about":"Spicy, flavorful thin noodles cooked with masala and aromatic spices." },
+    { "name": "Bhadam Halwa", "image": "https://www.app.tutorjoes.in/img/food/79.jpg","price":"₹ 160","about":"Rich almond dessert with ghee, sugar, and cardamom." },
+    { "name": "Alfredo Pasta", "image": "https://www.app.tutorjoes.in/img/food/26.jpg","price":"₹ 185","about":"Creamy, cheesy Italian pasta with rich Alfredo sauce." },
+    { "name": "Mutton Biriyani", "image": "https://www.app.tutorjoes.in/img/food/2.jpg","price":"₹ 199","about":"Aromatic rice dish with tender, spiced mutton pieces." },
+    { "name": "Chicken Biriyani", "image": "https://www.app.tutorjoes.in/img/food/3.jpg","price":"₹ 100","about":"Fragrant basmati rice with juicy, flavorful chicken masala." }
+  ],
+  "lunch": [
+    { "name": "Chicken Afghami", "image": "https://www.app.tutorjoes.in/img/food/133.jpg","price":"₹ 120","about":"Tender chicken cooked with rich spices, yogurt, and flavorful Afghani marinade." },
+    { "name": "Hydrabad Chicken", "image": "https://www.app.tutorjoes.in/img/food/20.jpg","price":"₹ 89","about":"Spicy, aromatic chicken curry from Hyderabad with rich, bold flavors." },
+    { "name": "Chicken Soup", "image": "https://www.app.tutorjoes.in/img/food/136.jpg","price":"₹ 49","about":"Warm, comforting broth with tender chicken and soothing herbs inside." },
+    { "name": "Chennai Rasagulla", "image": "https://www.app.tutorjoes.in/img/food/72.jpg","price":"₹ 60","about":"Soft, spongy syrup-soaked sweet balls, a delicious Chennai-style dessert." },
+    { "name": "Mutton Chilli", "image": "https://www.app.tutorjoes.in/img/food/9.jpg","price":"₹ 90","about":"Spicy, stir-fried tender mutton with chili peppers and flavorful seasoning." },
+    { "name": "Ambur Biryani", "image": "https://www.app.tutorjoes.in/img/food/6.jpg","price":"₹ 130","about":"Fragrant, spicy rice layered with marinated meat, signature Ambur flavor." },
+    { "name": "Mutton Curry", "image": "https://www.app.tutorjoes.in/img/food/144.jpg","price":"₹ 120","about":"Rich, slow-cooked mutton simmered in aromatic spices and flavorful gravy." },
+    { "name": "Biryani", "image": "https://www.app.tutorjoes.in/img/food/128.jpg","price":"₹ 149","about":"Aromatic, layered rice dish with spiced meat, herbs, and rich flavors." }
+  ],
+  "dinner": [
+    { "name": "Farmers pick", "image": "https://www.app.tutorjoes.in/img/food/89.jpg","price":"₹ 299","about":"Fresh, handpicked seasonal fruits and vegetables directly from local farmers’ fields." },
+    { "name": "Chicken 65", "image": "https://www.app.tutorjoes.in/img/food/9.jpg","price":"₹ 220","about":"Crispy, spicy deep-fried chicken bites, popular South Indian street food snack." },
+    { "name": "Momo mia meal", "image": "https://www.app.tutorjoes.in/img/food/80.jpg","price":"₹ 299","about":"Steamed or fried dumplings served with dipping sauces and flavorful sides." },
+    { "name": "Soya Pizza", "image": "https://www.app.tutorjoes.in/img/food/91.jpg","price":"₹ 130","about":"Pizza topped with spicy, flavorful soya chunks and melted cheese delight." },
+    { "name": "Pallipalayam Chicken", "image": "https://www.app.tutorjoes.in/img/food/139.jpg","price":"₹ 155","about":"Spicy, smoky grilled chicken from Pallipalayam, bursting with bold flavors." },
+    { "name": "Milk Halwa", "image": "https://www.app.tutorjoes.in/img/food/67.jpg","price":"₹ 89","about":"Sweet, creamy dessert made from milk, sugar, and ghee, richly flavored." },
+    { "name": "Barotta", "image": "https://www.app.tutorjoes.in/img/food/112.jpg","price":"₹ 49","about":"Soft, flaky layered flatbread, crispy outside, perfect with curries or chutneys." },
+    { "name": "Curd Rice", "image": "https://www.app.tutorjoes.in/img/food/113.jpg","price":"₹ 220","about":"Cooling, creamy rice mixed with yogurt, tempered with mustard seeds." }
+  ]
+}
+

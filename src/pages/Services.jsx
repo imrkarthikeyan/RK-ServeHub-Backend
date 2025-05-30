@@ -3,7 +3,7 @@ import {FaBroom, FaCalendarCheck, FaClock, FaHamburger, FaHeadset, FaShoppingBag
 export default function Services(){
     return(
         <div className="p-4 bg-[#cccc]">
-            <h2 className="pt-5 text-[30px] px-5 text-[DodgerBlue] font-bold">Services :</h2>
+            <h2 className="pt-5 text-[30px] px-5 text-[DodgerBlue] font-bold text-center">Services</h2>
                 <div className="p-2 md:p-[50px]">
                     <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-3">
                         <div className="bg-[white] pt-3 hover:bg-[DodgerBlue] rounded shadow-light group transition duration-350 else-in-out">

@@ -9,7 +9,7 @@ export default function Welcome(){
             <div className="absolute inset-0 bg-gray-900 opacity-90"></div>
             <div className="h-auto lg:h-[140vh] grid grid-cols-1 md:grid-cols-1  lg:grid-cols-2  p-7 md:p-16  gap-10">
                 <div className="z-10 pt-[70px] lg:pb-30 flex flex-col justify-center items-center lg:items-start " >
-                    <h2 className='text-[40px] pb-5'>RK ServeHub Welcome You!</h2>
+                    <h2 className='text-[40px] pb-5'>RK ServeHub Welcomes You!</h2>
                     <h1 className="text-[60px] font-bold leading-tight font-mono">Fresh Food, <br /> <span className=''>Great Taste</span></h1>
                     <p className="text-lg  mb-4 z-10 text-center lg:text-left">No long waits or confusion. Our system helps you get your food quickly and enjoy it without any hassle. Our meals are made fresh every day. You can explore the menu, place your order, book a table.</p>
                     <p className="inline-block py-4 px-8 bg-[DodgerBlue] text-white rounded-lg  transition duration-300 cursor-pointer">BOOK A TABLE</p>
